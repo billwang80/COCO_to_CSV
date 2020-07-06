@@ -1,0 +1,526 @@
+{
+    "info": {
+        "year": 2020,
+        "version": "1.0",
+        "description": "Testing Drawn boxes",
+        "contributor": "",
+        "url": "https://app.hasty.ai/projects/1fb0d3bc-6825-459e-9a24-a91e2bfdd376",
+        "date_created": "2020-07-06T15:10:39Z"
+    },
+    "images": [
+        {
+            "id": 0,
+            "width": 1700,
+            "height": 2200,
+            "file_name": "ESB_1EC_AL_Q1_1.jpg",
+            "license": null,
+            "flickr_url": "",
+            "coco_url": null,
+            "date_captured": "2020-07-06T15:11:19Z"
+        },
+        {
+            "id": 1,
+            "width": 2448,
+            "height": 3264,
+            "file_name": "ESB_1EC_AL_Q1_2.jpg",
+            "license": null,
+            "flickr_url": "",
+            "coco_url": null,
+            "date_captured": "2020-07-06T15:11:28Z"
+        },
+        {
+            "id": 2,
+            "width": 2550,
+            "height": 3300,
+            "file_name": "ESB_1EC_AL_Q5_6.jpg",
+            "license": null,
+            "flickr_url": "",
+            "coco_url": null,
+            "date_captured": "2020-07-06T15:12:31Z"
+        },
+        {
+            "id": 3,
+            "width": 2481,
+            "height": 3508,
+            "file_name": "ESB_1EC_AL_Q5_9.jpg",
+            "license": null,
+            "flickr_url": "",
+            "coco_url": null,
+            "date_captured": "2020-07-06T15:12:32Z"
+        },
+        {
+            "id": 4,
+            "width": 2479,
+            "height": 3508,
+            "file_name": "ESB_1EC_AL_Q5_10.jpg",
+            "license": null,
+            "flickr_url": "",
+            "coco_url": null,
+            "date_captured": "2020-07-06T15:12:39Z"
+        },
+        {
+            "id": 5,
+            "width": 1960,
+            "height": 4032,
+            "file_name": "ESB_1EC_AL_Q1_8.jpg",
+            "license": null,
+            "flickr_url": "",
+            "coco_url": null,
+            "date_captured": "2020-07-06T15:11:35Z"
+        },
+        {
+            "id": 6,
+            "width": 1700,
+            "height": 2200,
+            "file_name": "ESB_1EC_AL_Q1_7.jpg",
+            "license": null,
+            "flickr_url": "",
+            "coco_url": null,
+            "date_captured": "2020-07-06T15:11:32Z"
+        },
+        {
+            "id": 7,
+            "width": 1653,
+            "height": 2337,
+            "file_name": "ESB_1EC_AL_Q1_5.jpg",
+            "license": null,
+            "flickr_url": "",
+            "coco_url": null,
+            "date_captured": "2020-07-06T15:11:19Z"
+        },
+        {
+            "id": 8,
+            "width": 1200,
+            "height": 1600,
+            "file_name": "ESB_1EC_AL_Q5_11.jpg",
+            "license": null,
+            "flickr_url": "",
+            "coco_url": null,
+            "date_captured": "2020-07-06T15:11:19Z"
+        },
+        {
+            "id": 9,
+            "width": 1200,
+            "height": 1600,
+            "file_name": "ESB_1EC_AL_Q1_3.jpg",
+            "license": null,
+            "flickr_url": "",
+            "coco_url": null,
+            "date_captured": "2020-07-06T15:11:19Z"
+        },
+        {
+            "id": 10,
+            "width": 2448,
+            "height": 3264,
+            "file_name": "ESB_1EC_AL_Q5_3.jpg",
+            "license": null,
+            "flickr_url": "",
+            "coco_url": null,
+            "date_captured": "2020-07-06T15:12:17Z"
+        },
+        {
+            "id": 11,
+            "width": 1700,
+            "height": 2200,
+            "file_name": "ESB_1EC_AL_Q1_6.jpg",
+            "license": null,
+            "flickr_url": "",
+            "coco_url": null,
+            "date_captured": "2020-07-06T15:11:33Z"
+        },
+        {
+            "id": 12,
+            "width": 1700,
+            "height": 2200,
+            "file_name": "ESB_1EC_AL_Q1_10.jpg",
+            "license": null,
+            "flickr_url": "",
+            "coco_url": null,
+            "date_captured": "2020-07-06T15:11:33Z"
+        },
+        {
+            "id": 13,
+            "width": 3024,
+            "height": 4032,
+            "file_name": "ESB_1EC_AL_Q1_9.jpg",
+            "license": null,
+            "flickr_url": "",
+            "coco_url": null,
+            "date_captured": "2020-07-06T15:11:49Z"
+        },
+        {
+            "id": 14,
+            "width": 1700,
+            "height": 2200,
+            "file_name": "ESB_1EC_AL_Q1_11.jpg",
+            "license": null,
+            "flickr_url": "",
+            "coco_url": null,
+            "date_captured": "2020-07-06T15:11:54Z"
+        },
+        {
+            "id": 15,
+            "width": 1960,
+            "height": 4032,
+            "file_name": "ESB_1EC_AL_Q5_2.jpg",
+            "license": null,
+            "flickr_url": "",
+            "coco_url": null,
+            "date_captured": "2020-07-06T15:11:57Z"
+        },
+        {
+            "id": 16,
+            "width": 2480,
+            "height": 3508,
+            "file_name": "ESB_1EC_AL_Q5_5.jpg",
+            "license": null,
+            "flickr_url": "",
+            "coco_url": null,
+            "date_captured": "2020-07-06T15:12:33Z"
+        },
+        {
+            "id": 17,
+            "width": 2479,
+            "height": 3508,
+            "file_name": "ESB_1EC_AL_Q5_8.jpg",
+            "license": null,
+            "flickr_url": "",
+            "coco_url": null,
+            "date_captured": "2020-07-06T15:12:35Z"
+        },
+        {
+            "id": 18,
+            "width": 2550,
+            "height": 3504,
+            "file_name": "ESB_1EC_AL_Q5_4.jpg",
+            "license": null,
+            "flickr_url": "",
+            "coco_url": null,
+            "date_captured": "2020-07-06T15:12:05Z"
+        },
+        {
+            "id": 19,
+            "width": 3024,
+            "height": 4032,
+            "file_name": "ESB_1EC_AL_Q5_1.jpg",
+            "license": null,
+            "flickr_url": "",
+            "coco_url": null,
+            "date_captured": "2020-07-06T15:12:23Z"
+        },
+        {
+            "id": 20,
+            "width": 2479,
+            "height": 3504,
+            "file_name": "ESB_1EC_AL_Q5_7.jpg",
+            "license": null,
+            "flickr_url": "",
+            "coco_url": null,
+            "date_captured": "2020-07-06T15:12:29Z"
+        }
+    ],
+    "annotations": [
+        {
+            "id": 0,
+            "image_id": 0,
+            "category_id": 0,
+            "segmentation": null,
+            "area": 64372,
+            "bbox": [
+                416,
+                684,
+                209,
+                308
+            ],
+            "iscrowd": 0
+        },
+        {
+            "id": 1,
+            "image_id": 1,
+            "category_id": 0,
+            "segmentation": null,
+            "area": 152048,
+            "bbox": [
+                471,
+                715,
+                272,
+                559
+            ],
+            "iscrowd": 0
+        },
+        {
+            "id": 2,
+            "image_id": 2,
+            "category_id": 0,
+            "segmentation": null,
+            "area": 187452,
+            "bbox": [
+                1035,
+                578,
+                369,
+                508
+            ],
+            "iscrowd": 0
+        },
+        {
+            "id": 3,
+            "image_id": 3,
+            "category_id": 0,
+            "segmentation": null,
+            "area": 508432,
+            "bbox": [
+                607,
+                772,
+                688,
+                739
+            ],
+            "iscrowd": 0
+        },
+        {
+            "id": 4,
+            "image_id": 4,
+            "category_id": 0,
+            "segmentation": null,
+            "area": 153450,
+            "bbox": [
+                481,
+                885,
+                310,
+                495
+            ],
+            "iscrowd": 0
+        },
+        {
+            "id": 5,
+            "image_id": 5,
+            "category_id": 0,
+            "segmentation": null,
+            "area": 62300,
+            "bbox": [
+                524,
+                1150,
+                175,
+                356
+            ],
+            "iscrowd": 0
+        },
+        {
+            "id": 6,
+            "image_id": 6,
+            "category_id": 0,
+            "segmentation": null,
+            "area": 77356,
+            "bbox": [
+                725,
+                512,
+                233,
+                332
+            ],
+            "iscrowd": 0
+        },
+        {
+            "id": 7,
+            "image_id": 7,
+            "category_id": 0,
+            "segmentation": null,
+            "area": 80364,
+            "bbox": [
+                251,
+                597,
+                222,
+                362
+            ],
+            "iscrowd": 0
+        },
+        {
+            "id": 8,
+            "image_id": 8,
+            "category_id": 0,
+            "segmentation": null,
+            "area": 89688,
+            "bbox": [
+                140,
+                288,
+                222,
+                404
+            ],
+            "iscrowd": 0
+        },
+        {
+            "id": 9,
+            "image_id": 9,
+            "category_id": 0,
+            "segmentation": null,
+            "area": 74640,
+            "bbox": [
+                239,
+                377,
+                240,
+                311
+            ],
+            "iscrowd": 0
+        },
+        {
+            "id": 10,
+            "image_id": 10,
+            "category_id": 0,
+            "segmentation": null,
+            "area": 234718,
+            "bbox": [
+                529,
+                829,
+                454,
+                517
+            ],
+            "iscrowd": 0
+        },
+        {
+            "id": 11,
+            "image_id": 11,
+            "category_id": 0,
+            "segmentation": null,
+            "area": 163660,
+            "bbox": [
+                491,
+                383,
+                334,
+                490
+            ],
+            "iscrowd": 0
+        },
+        {
+            "id": 12,
+            "image_id": 12,
+            "category_id": 0,
+            "segmentation": null,
+            "area": 300810,
+            "bbox": [
+                478,
+                556,
+                555,
+                542
+            ],
+            "iscrowd": 0
+        },
+        {
+            "id": 13,
+            "image_id": 13,
+            "category_id": 0,
+            "segmentation": null,
+            "area": 359988,
+            "bbox": [
+                926,
+                919,
+                458,
+                786
+            ],
+            "iscrowd": 0
+        },
+        {
+            "id": 14,
+            "image_id": 14,
+            "category_id": 0,
+            "segmentation": null,
+            "area": 113600,
+            "bbox": [
+                410,
+                507,
+                320,
+                355
+            ],
+            "iscrowd": 0
+        },
+        {
+            "id": 15,
+            "image_id": 15,
+            "category_id": 0,
+            "segmentation": null,
+            "area": 66500,
+            "bbox": [
+                709,
+                1108,
+                190,
+                350
+            ],
+            "iscrowd": 0
+        },
+        {
+            "id": 16,
+            "image_id": 16,
+            "category_id": 0,
+            "segmentation": null,
+            "area": 285770,
+            "bbox": [
+                617,
+                817,
+                410,
+                697
+            ],
+            "iscrowd": 0
+        },
+        {
+            "id": 17,
+            "image_id": 17,
+            "category_id": 0,
+            "segmentation": null,
+            "area": 378495,
+            "bbox": [
+                689,
+                533,
+                585,
+                647
+            ],
+            "iscrowd": 0
+        },
+        {
+            "id": 18,
+            "image_id": 18,
+            "category_id": 0,
+            "segmentation": null,
+            "area": 244645,
+            "bbox": [
+                652,
+                661,
+                433,
+                565
+            ],
+            "iscrowd": 0
+        },
+        {
+            "id": 19,
+            "image_id": 19,
+            "category_id": 0,
+            "segmentation": null,
+            "area": 200260,
+            "bbox": [
+                873,
+                977,
+                310,
+                646
+            ],
+            "iscrowd": 0
+        },
+        {
+            "id": 20,
+            "image_id": 20,
+            "category_id": 0,
+            "segmentation": null,
+            "area": 84448,
+            "bbox": [
+                485,
+                719,
+                208,
+                406
+            ],
+            "iscrowd": 0
+        }
+    ],
+    "categories": [
+        {
+            "id": 0,
+            "name": "Box",
+            "supercategory": "object"
+        }
+    ],
+    "licenses": []
+}
