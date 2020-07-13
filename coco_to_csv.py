@@ -16,6 +16,6 @@ with open('annotations.csv', mode='w', newline='') as file:
                             data['annotations'][i]['bbox'][0],
                             data['annotations'][i]['bbox'][1],
                             data['annotations'][i]['bbox'][0] + data['annotations'][i]['bbox'][2],
-                            data['annotations'][i]['bbox'][1] + data['annotations'][i]['bbox'][3],
-                            data['images'][data['annotations'][i]['image_id']]['width'],
-                            data['images'][data['annotations'][i]['image_id']]['height']])
+                            data['annotations'][i]['bbox'][1] + data['annotations'][i]['bbox'][3]])
+                            # data['images'][data['annotations'][i]['image_id']]['width'],
+                            # data['images'][data['annotations'][i]['image_id']]['height']])
